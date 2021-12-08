@@ -2,7 +2,7 @@
 - 👀 I’m interested in sofware development
 - 🌱 I’m currently learning C/C++/PHP
 - 💞️ I’m looking to collaborate on any intresting projects 
-- 📫 How to reach me masurio@gmail.com
+- 📫 How to reach me massurio@gmail.com
 
 <!---
 Massurio/Massurio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
