@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Massurio
-- 👀 I’m interested in sofware development
+- 👀 Sofware developer
 - 🌱 I’m currently learning C/C++/PHP
 - 💞️ I’m looking to collaborate on any intresting projects
 
